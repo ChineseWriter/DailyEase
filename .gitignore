@@ -1,1 +1,3 @@
 .venv-win/
+migrations/
+__pycache__/
